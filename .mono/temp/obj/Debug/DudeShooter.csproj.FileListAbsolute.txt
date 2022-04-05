@@ -1,0 +1,9 @@
+C:\Users\sakki\Documents\DudeShooter\.mono\temp\bin\Debug\DudeShooter.dll
+C:\Users\sakki\Documents\DudeShooter\.mono\temp\bin\Debug\DudeShooter.pdb
+C:\Users\sakki\Documents\DudeShooter\.mono\temp\obj\Debug\DudeShooter.csproj.AssemblyReference.cache
+C:\Users\sakki\Documents\DudeShooter\.mono\temp\obj\Debug\DudeShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakki\Documents\DudeShooter\.mono\temp\obj\Debug\DudeShooter.AssemblyInfoInputs.cache
+C:\Users\sakki\Documents\DudeShooter\.mono\temp\obj\Debug\DudeShooter.AssemblyInfo.cs
+C:\Users\sakki\Documents\DudeShooter\.mono\temp\obj\Debug\DudeShooter.csproj.CoreCompileInputs.cache
+C:\Users\sakki\Documents\DudeShooter\.mono\temp\obj\Debug\DudeShooter.dll
+C:\Users\sakki\Documents\DudeShooter\.mono\temp\obj\Debug\DudeShooter.pdb
